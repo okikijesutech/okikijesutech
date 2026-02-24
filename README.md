@@ -56,9 +56,9 @@ Responsive Design • Accessibility (a11y) • REST APIs • Web Performance
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn: https://www.linkedin.com/in/okikijesu/
 - 🌐 Portfolio: https://your-portfolio.com
-- 📬 Email: your.email@example.com
+- 📬 Email: okikijesuoluwasina@gmail.com
 
 ---
 
