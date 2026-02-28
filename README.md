@@ -1,66 +1,58 @@
-# 👋 Hello, I'm OkikiJesu 👨‍💻
-**Front-End Developer** focused on building responsive, accessible, and scalable user interfaces.
+# 👋 Hi, I’m Oluwasina OkikiJesu (okikijesutech)
 
-🚀 I build clean, modern websites & web apps using JavaScript, React, TypeScript, and CSS.
-
----
-
-## 🔭 About Me
-- 🔸 Passionate about UI/UX and performance-driven front-end experiences.
-- 🔹 I love turning designs into pixel-perfect code.
-- 🔸 Always learning and trying new web technologies.
+### 👨‍💻 Frontend Developer | Building Interactive Web Experiences
+I’m a frontend developer passionate about creating responsive, accessible, and performant web applications. I’m currently **leveling up from beginner to intermediate**, focusing on **React, TypeScript, Tailwind CSS, and real-world UI features**.
 
 ---
 
-## 💼 Skills & Technologies
-
-### 🔧 Front-End
-HTML • CSS • JavaScript • React • TypeScript • TailwindCSS • Redux
-
-### 🛠 Tools
-Git • GitHub • VS Code • Chrome DevTools • Figma (basics)
-
-### 🌐 Others
-Responsive Design • Accessibility (a11y) • REST APIs • Web Performance
+## 🔭 Currently Working On
+- 🚀 Improving my React + TypeScript skills
+- 🌐 Building full-featured frontend projects with real API integration
+- 🧪 Learning unit testing (React Testing Library)
+- 🌟 Participating in open source and coding challenges
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technologies & Tools
+**Frontend:**  
+React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · React Router · Zustand/Context API
 
-### 🔗 [Project Name 1](https://github.com/okikijesutech/project-1)
-**Description:** Short summary of what it does and why it’s useful.  
-**Tech:** React • JavaScript • TailwindCSS • API integration  
-⭐ Highlights: What makes this project stand out.
-
----
-
-### 🔗 [Project Name 2](https://github.com/okikijesutech/project-2)
-**Description:** Short summary of what it does.  
-**Tech:** TypeScript • React • CSS Modules  
-⭐ Features: Key functionality you implemented.
+**Tools:**  
+Git · GitHub · VS Code · Chrome DevTools
 
 ---
 
-### 🔗 [Project Name 3](https://your-live-demo-link)
-**Description:** Brief description.  
-**Tech:** React • API • UI/UX details  
-⭐ Lessons: What you learned building this project.
+## 📌 Featured Projects
+
+### ⭐ **Omoluabi**
+🔗 https://github.com/okikijesutech/Omoluabi  
+📌 A React + TypeScript project focused on showcasing principles of good UI and clean code.
+
+### 🛍️ **E-commerce Frontend (Work in Progress)**
+🔗 https://github.com/okikijesutech/o_shop  
+📌 A frontend shopping experience built with React + TypeScript & Tailwind CSS.
+
+### 📡 **entree_api**
+🔗 https://github.com/okikijesutech/entree_api  
+📌 A JavaScript API integration project demonstrating client-side data fetching and UI state handling.
 
 ---
 
-## 📈 GitHub Stats
-<!-- Optional: add stats if you want -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages?username=okikijesutech&layout=compact&theme=default)
-![Stats](https://github-readme-stats.vercel.app/api?username=okikijesutech&show_icons=true&theme=default)
+## 📫 How to Reach Me
 
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/okikijesu/
-- 🌐 Portfolio: https://your-portfolio.com
+**Connect with me:**
+- 💼 LinkedIn: https://www.linkedin.com/in/okikioluwasina/  
+- 🐦 Twitter: https://twitter.com/okikioluwasina  
 - 📬 Email: okikijesuoluwasina@gmail.com
 
 ---
 
-## 👇 Let’s Build Amazing Interfaces!
-I’m always open to collaborating on cool front-end projects, open source, or joining a team where I can grow.
+## 📈 GitHub Stats
+
+![okikijesutech GitHub Stats](https://github-readme-stats.vercel.app/api?username=okikijesutech&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Let’s Build Cool Stuff Together!
+Thanks for visiting my GitHub 💫  
+Feel free to explore my projects or connect with me!
