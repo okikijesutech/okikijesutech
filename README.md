@@ -47,12 +47,6 @@ Git · GitHub · VS Code · Chrome DevTools
 
 ---
 
-## 📈 GitHub Stats
-
-![okikijesutech GitHub Stats](https://github-readme-stats.vercel.app/api?username=okikijesutech&show_icons=true&theme=radical)
-
----
-
 ## 🚀 Let’s Build Cool Stuff Together!
 Thanks for visiting my GitHub 💫  
 Feel free to explore my projects or connect with me!
