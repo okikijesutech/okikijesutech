@@ -1,52 +1,57 @@
-# 👋 Hi, I’m Oluwasina OkikiJesu (okikijesutech)
+# Okikijesu Oluwasina
 
-### 👨‍💻 Frontend Developer | Building Interactive Web Experiences
-I’m a frontend developer passionate about creating responsive, accessible, and performant web applications. I’m currently **leveling up from beginner to intermediate**, focusing on **React, TypeScript, Tailwind CSS, and real-world UI features**.
+**Full-stack TypeScript engineer. Founder @ [Factory.ng](https://github.com/TF-AT).**
 
----
-
-## 🔭 Currently Working On
-- 🚀 Improving my React + TypeScript skills
-- 🌐 Building full-featured frontend projects with real API integration
-- 🧪 Learning unit testing (React Testing Library)
-- 🌟 Participating in open source and coding challenges
+I build production SaaS products end-to-end — architecture, security, deployment. Based in Lagos, Nigeria. Open to remote engineering roles.
 
 ---
 
-## 🛠️ Technologies & Tools
-**Frontend:**  
-React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · React Router · Zustand/Context API
+### What I'm building
 
-**Tools:**  
-Git · GitHub · VS Code · Chrome DevTools
-
----
-
-## 📌 Featured Projects
-
-### ⭐ **Omoluabi**
-🔗 https://github.com/okikijesutech/Omoluabi  
-📌 A React + TypeScript project focused on showcasing principles of good UI and clean code.
-
-### 🛍️ **E-commerce Frontend (Work in Progress)**
-🔗 https://github.com/okikijesutech/o_shop  
-📌 A frontend shopping experience built with React + TypeScript & Tailwind CSS.
-
-### 📡 **entree_api**
-🔗 https://github.com/okikijesutech/entree_api  
-📌 A JavaScript API integration project demonstrating client-side data fetching and UI state handling.
+| Project | What it is | Stack |
+|---|---|---|
+| **EduFlows** | Multi-tenant school management SaaS for Nigerian private schools | Next.js 15, Prisma, Supabase, Upstash Redis |
+| **[PwmngerTS](https://github.com/TF-AT/PwmngerTS)** | Open-source zero-knowledge password manager + browser extension | TypeScript, WebCrypto API, Node.js |
+| **Energy Flow OS** | Multi-tenant virtual power plant SaaS with IoT ingestion | NestJS, MQTT, Raspberry Pi, Modbus/RS485 |
 
 ---
 
-## 📫 How to Reach Me
+### Stack
 
-**Connect with me:**
-- 💼 LinkedIn: https://www.linkedin.com/in/okikioluwasina/  
-- 🐦 Twitter: https://twitter.com/okikioluwasina  
-- 📬 Email: okikijesuoluwasina@gmail.com
+```typescript
+const stack = {
+  languages:    ["TypeScript", "JavaScript", "Python", "SQL"],
+  frontend:     ["Next.js", "React", "React Native / Expo", "Tailwind CSS"],
+  backend:      ["Node.js", "NestJS", "Express", "Prisma ORM", "BullMQ"],
+  databases:    ["PostgreSQL", "Supabase", "Upstash Redis", "pgvector"],
+  infra:        ["Vercel", "Render", "Docker", "GitHub Actions"],
+  tooling:      ["Turborepo", "pnpm workspaces", "Vitest"],
+  security:     ["OWASP Top 10", "JWT architecture", "httpOnly cookies", "GDPR"],
+};
+```
 
 ---
 
-## 🚀 Let’s Build Cool Stuff Together!
-Thanks for visiting my GitHub 💫  
-Feel free to explore my projects or connect with me!
+### What I care about
+
+- Multi-tenant architecture done properly — isolation at the ORM layer, not just at the query level
+- Security as a first-class concern — I run scored audits, not just code reviews
+- Building infrastructure that works for African markets, not just adapted from Western defaults
+- Open source as a long-term strategy, not a marketing move
+
+---
+
+### Recent work
+
+- Conducted end-to-end security audit of EduFlows (7.6/10 score, 25+ issues tracked and remediated)
+- Completed 25-issue security audit of PwmngerTS across web vault and browser extension
+- Designed AI agent layer for EduFlows: fee recovery, at-risk student detection, automated report card comments, parent digest
+- Architected `@factory/auth` — a shared tenant-aware JWT + httpOnly cookie auth package across a Turborepo monorepo
+
+---
+
+### Get in touch
+
+- Email: okikijesuoluwasina@gmail.com
+- LinkedIn: [linkedin.com/in/okikijesuoluwasina](https://linkedin.com/in/okikijesuoluwasina)
+- Studio: [Factory.ng](https://github.com/TF-AT)
